@@ -4,4 +4,4 @@
 </p>
 
 <h2 align="center">Hey, I'm Dylan</h2>
-<p align="center">Computer Science Student ⚡ | API Builder 🧰 | Bare Metal wizard 🧙‍♂️</p>
+<p align="center">Computer Science Student ⚡ | Developer 🧰 | Bare Metal wizard 🧙‍♂️</p>
